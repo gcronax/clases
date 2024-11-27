@@ -22,7 +22,7 @@ class pajaro {
         edad=e;
         curado=c;
     }
-    public void Pajaro(String nombre, String especie, boolean curado, int sintomas, String color, double peso, int edad, String telefono) {
+    public pajaro(String nombre, String especie, boolean curado, int sintomas, String color, double peso, int edad, String telefono) {
         this.nombre = nombre;
         this.especie = especie;
         this.curado = curado;
