@@ -14,6 +14,7 @@ class CuentaBancaria {
         this.n_cuenta=n;
     }
 
+
     public void setN_cuenta(String n_cuenta) {
         this.n_cuenta = n_cuenta;
     }
